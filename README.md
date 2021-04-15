@@ -1,5 +1,5 @@
 <h1 align="center">💳 FinAPI</h1>
-Primeiro projeto em NodeJs realizado durante o **Ignite da Rocketseat**🚀. Uma API financeira.
+Primeiro projeto em NodeJs realizado durante o <strong>Ignite da Rocketseat🚀.</strong> Uma API financeira, capaz de cadastrar contas, realizar saques, depósitos e visualizar extratos e saldo.
 <br><br>
 <div align="center">
     <img src="https://img.shields.io/badge/FinAPI-NodeJS-green" alt="FinAPI">
