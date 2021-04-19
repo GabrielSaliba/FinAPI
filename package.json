@@ -6,9 +6,13 @@
   "author": "Gabriel Saliba <gabriel.saliba.179@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
   }
 }

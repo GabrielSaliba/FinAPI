@@ -32,3 +32,7 @@ Primeiro projeto em NodeJs realizado durante o <strong>Ignite da Rocketseat🚀.
 - ❌️Não deve ser possível fazer saque em uma conta não existente
 - ❌️Não deve ser possível excluir uma conta não existente
 - ❌️Não deve ser possível fazer o saque quando o saldo for insuficiente
+
+<br>
+
+Feito durante Módulo 1 do Ignite na trilha de NodeJS disponibilizado pela [Rocketseat](https://rocketseat.com.br/) 💜
